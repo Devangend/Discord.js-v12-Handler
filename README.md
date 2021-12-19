@@ -8,3 +8,5 @@
 - Go to `.replit` file and change to:
 - `language = "nodejs"`
 - `run = "node index.js"`
+
+**s**
