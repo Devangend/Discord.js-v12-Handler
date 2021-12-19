@@ -6,8 +6,7 @@
   "prefix": "your prefix",
   "owner": "your id",
   "token": "your bot token"
-}
-```
+} ```
 
 ---
 
