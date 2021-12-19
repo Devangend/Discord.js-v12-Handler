@@ -13,4 +13,4 @@
 - `client.login(process.env.token);`
 - 
 - And put your bot token in `secret`
-[![example](https://cdn.discordapp.com/attachments/853617109560328192/922204498997436416/unknown.png)]
+[![example](https://cdn.discordapp.com/attachments/853617109560328192/922205086665572402/unknown.jpg)]
