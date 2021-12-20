@@ -5,7 +5,7 @@ const { owner } = require("../../config.json");
 module.exports = {
   name: "eval",
   description: "i forget your epic description is",
-  usage: ")eval <code>",
+  usage: "<preifx>eval <code>",
   aliases: ["evals"],
   permissions: [],
   cooldown: 3000,
