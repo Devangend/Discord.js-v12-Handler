@@ -1,7 +1,7 @@
 module.exports = {
   name: "ping",
   description: "return bot ping",
-  usage: ")ping",
+  usage: "<prefix>ping",
   aliases: ["beep"],
   permissions: [],
   cooldown: 3000,
