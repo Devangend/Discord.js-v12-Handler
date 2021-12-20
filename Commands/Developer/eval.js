@@ -13,7 +13,7 @@ module.exports = {
     
   if (message.author.id !== owner ) {
     const error = new Discord.MessageEmbed()
-    .setDescription('This Command is Owner-Only!')
+    .setDescription('Only my creator can use this commands!')
     .setColor('DARK_BLUE')
   // Check if that your owner id form Config.json
     return message.channel.send(error)
