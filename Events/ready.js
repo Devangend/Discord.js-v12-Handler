@@ -15,5 +15,5 @@ Members: ${client.guilds.cache.map((g) => g.memberCount || 0).reduce((x, y) => x
         type: "LISTENING", // PLAYING, WATCHING, LISTENING, STREAMING,
     }
 });
-});
+})
 }
