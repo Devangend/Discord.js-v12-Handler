@@ -8,6 +8,7 @@ Members: ${client.guilds.cache.map((g) => g.memberCount || 0).reduce((x, y) => x
 ---------------------`);
   
   // Custom Bot Presence Status
+
   client.user.setPresence({
     status: "online",  // You can show online, idle, and dnd
     activity: {
@@ -15,5 +16,4 @@ Members: ${client.guilds.cache.map((g) => g.memberCount || 0).reduce((x, y) => x
         type: "LISTENING", // PLAYING, WATCHING, LISTENING, STREAMING,
     }
 });
-})
 }
